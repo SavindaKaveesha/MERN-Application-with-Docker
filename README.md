@@ -1,7 +1,8 @@
 # MERN Application with Docker
 
 
-![image](https://github.com/user-attachments/assets/2fb5cdcf-9fcd-4a0b-a20a-d6e178e2ce25)
+![image](https://github.com/user-attachments/assets/6e4e4d02-1156-491d-aa39-b8d10a1d759b)
+
 
 
 This project is a containerized MERN (MongoDB, Express, React, Node.js) stack application using Docker. It features basic CRUD operations for user records, including registering, updating, deleting, and listing users. The project utilizes Docker Compose for container orchestration and includes persistent volumes for MongoDB data and live reloading for development purposes.
